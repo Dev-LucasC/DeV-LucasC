@@ -15,6 +15,8 @@
 
 ##
 
+<h1>📈GitHub Statistics</h1>
+
 <div align="left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dev-LucasC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"<a/>
  </div>
@@ -22,6 +24,9 @@
   <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-LucasC&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+##
+
+<p> Ferramentas que eu tenho conhecimento </p>
 <div align:"center" style="display: inline_block" ><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -32,6 +37,9 @@
 
 ##
 
+
+
+<h1> Contatos </h1>
 <div> 
  
   <a href="https://instagram.com/lucas.desenvolvedor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
