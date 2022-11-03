@@ -11,7 +11,7 @@
 
 - ⚡ Gosto de encarar novos desafios 
 
-- ✔️ Posto alguns conteúdos no meu Instagram, da uma olhada:[www.instagram.com/lucas.desenvolvedor]
+
 
 ##
 
