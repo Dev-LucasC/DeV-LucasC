@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://gist.githubusercontent.com/Dev-LucasC/ddfa7190e7fd36770ca5f08ad6ff48f4/raw/595efad25d0785fb0830d4d954c24506aef66b8d/foto.svg"/>
+<img align="right" height="590em" src="https://gist.githubusercontent.com/Dev-LucasC/ddfa7190e7fd36770ca5f08ad6ff48f4/raw/1ac4c8faeb0e3334bef39b857df5309ad4a56611/foto.svg">
 
 <h1 align="left">Olá, Eu sou o Lucas da Conceição</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev-LucasC&color=green" alt="Profile views" /> </p>
