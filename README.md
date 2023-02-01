@@ -3,7 +3,7 @@
 <h1 align="left">Olá, Eu sou o Lucas da Conceição</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev-LucasC&color=green" alt="Profile views" /> </p>
 
-- 🔥 Desenvolvedor Junior FullStack
+- 🔥 Desenvolvedor FullStack
 
 - 📚 HTML, CSS, JS, REACT, NODE
 
