@@ -1,6 +1,6 @@
 <img align="right" height="590em" src="https://gist.githubusercontent.com/Dev-LucasC/ddfa7190e7fd36770ca5f08ad6ff48f4/raw/1ac4c8faeb0e3334bef39b857df5309ad4a56611/foto.svg">
 
-<h1 align="left">Olá, Eu sou o Lucas da Conceição</h1>
+## Olá, Eu sou o Lucas da Conceição
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev-LucasC&color=green" alt="Profile views" /> </p>
 
 - 🔥 Desenvolvedor FullStack
@@ -11,6 +11,7 @@
 
 - ⚡ Gosto de encarar novos desafios 
 
+- Como desenvolvedor Full-Stack, tenho expertise em diversas tecnologias, e estou sempre em busca de novos desafios e aprendizados. Além disso, estou me especializando em Análise e Desenvolvimento de Sistemas, visando ampliar meus conhecimentos e me destacar ainda mais na minha carreira. Se você está procurando alguém com paixão pelo desenvolvimento de software, entre em contato!
 
 
 ##
