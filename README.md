@@ -1,6 +1,6 @@
 <img align="right" height="590em" src="https://gist.githubusercontent.com/Dev-LucasC/ddfa7190e7fd36770ca5f08ad6ff48f4/raw/1ac4c8faeb0e3334bef39b857df5309ad4a56611/foto.svg">
 
-## Olá, Eu sou o Lucas da Conceição  aaaa
+## Olá, Eu sou o Lucas da Conceição  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev-LucasC&color=green" alt="Profile views" /> </p>
 
 - 🔥 Desenvolvedor FullStack - IOS Developer
