@@ -18,10 +18,10 @@
 
 <h1>📈GitHub Statistics</h1>
 
-<div align="left">
+
+<div align="left" dir="auto">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dev-LucasC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"<a/>
- </div>
- <div align="left">
+
   <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-LucasC&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
