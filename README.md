@@ -3,6 +3,7 @@
 ## Olá, Eu sou o Lucas da Conceição  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev-LucasC&color=green" alt="Profile views" /> </p>
 
+....
 - 🔥 Desenvolvedor FullStack 
 
 - 📚  | REACT | NODE | EXPRESS | MySQL | PostgresSQL | AWS 
