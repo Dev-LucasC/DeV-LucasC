@@ -6,7 +6,7 @@
 
 - 🔥 Desenvolvedor FullStack 
 
-- 📚  | REACT | NODE | EXPRESS | MySQL | PostgresSQL | AWS 
+- 📚  | REACT | NESTJS| NODE | EXPRESS | MySQL | PostgresSQL | AWS 
 
 - 🔭 Graduando em Analise e Desenvolvimento de Sistemas com foco na Pós Graduação
 
