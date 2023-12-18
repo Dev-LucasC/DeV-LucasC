@@ -1,12 +1,10 @@
 <img align="right" height="500em" src="https://gist.githubusercontent.com/Dev-LucasC/ddfa7190e7fd36770ca5f08ad6ff48f4/raw/1ac4c8faeb0e3334bef39b857df5309ad4a56611/foto.svg">
 
 ## Olá, Eu sou o Lucas da Conceição  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev-LucasC&color=green" alt="Profile views" /> </p>
-
 
 - 🔥 Desenvolvedor FullStack 
 
-- 📚  | REACT | NESTJS| NODE | EXPRESS | MySQL | PostgresSQL | AWS 
+- 📚  JAVASCRIPT | REACT | NESTJS| NODE | PHP | LARAVEL | MySQL | PostgresSQL | AWS 
 
 - 🔭 Graduando em Analise e Desenvolvimento de Sistemas com foco na Pós Graduação
 
@@ -30,14 +28,17 @@
 
 <h1> Ferramentas que eu tenho conhecimento </h1>
 <div align:"center" style="display: inline_block" ><br>
-  <img align="center" alt="Rafa-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="60" width="70"" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React "height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NestJS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="Rafa-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="PHP" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="Laravel" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Rafa-React" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+
 </div>
 
 <h1> Contatos </h1>
